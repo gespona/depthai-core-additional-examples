@@ -2,7 +2,13 @@
 
 My own C++ additional examples using DepthAI
 
+If you look for the same examples for python take a look here https://github.com/gespona/depthai-python-additional-examples
+
+If you look for the same examples inside Unity take a look here https://github.com/gespona/depthai-unity-plugin
+
 # gen2_camera_face_detector_example
+
+![Demo](images/depthai-core-face-detector.gif)
 
 Face detector from modelplace.ai
 
@@ -59,3 +65,5 @@ cmake --build . --parallel
 To run the example applications, navigate to build directory and run executables
 
 ## Repo kickstarted from: https://github.com/rennelongcoy/depthai-helloworld-cpp
+
+If you find this repo interesting please star / watch to stay tunned !
